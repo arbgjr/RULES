@@ -1,0 +1,7 @@
+rule transformaMaiuscula { Upper("texto exemplo") }
+rule calculaComprimento { Length("texto exemplo") }
+rule transformaMinuscula { Lower("texto exemplo") }
+rule soma { 3 + 5 }
+rule subtracao { 10 - 2 }
+rule multiplicacao { 4 * 3 }
+rule divisão { 20 / 5 }
