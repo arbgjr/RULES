@@ -1,6 +1,6 @@
 # RULES: Universal Logic Engine Systems Compiler
 
-Este projeto é dedicado ao desenvolvimento do compilador para o motor de regras "RULES: Universal Logic Engine Systems". O compilador é construído usando ANTLR para análise léxica e sintática, e F# para a implementação do analisador semântico e execução das regras.
+Este projeto é dedicado ao desenvolvimento do compilador para o motor de regras "RULES: Universal Logic Engine Systems". O compilador é construído usando ANTLR para análise léxica e sintática, e C# para a implementação do analisador semântico e execução das regras.
 
 ## Objetivos
 
@@ -13,9 +13,9 @@ Este projeto é dedicado ao desenvolvimento do compilador para o motor de regras
 O projeto é dividido nas seguintes partes principais:
 
 - `RulesLang.g4`: Arquivo de gramática ANTLR que define a sintaxe da linguagem de regras.
-- `SemanticAnalyzer.fs`: Classe em F# para análise semântica das regras.
-- `Program.fs`: Classe principal em F# que utiliza o analisador para interpretar e executar as regras.
-- `Tests.fs`: Arquivo de testes unitários para garantir a corretude do compilador.
+- `SemanticAnalyzer.cs`: Classe em C# para análise semântica das regras.
+- `Program.cs`: Classe principal em C# que utiliza o analisador para interpretar e executar as regras.
+- `Tests.cs`: Arquivo de testes unitários para garantir a corretude do compilador.
 - `input.txt`: Arquivo de exemplo com regras para testar o compilador.
 
 ## Pré-requisitos
