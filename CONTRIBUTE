@@ -1,0 +1,17 @@
+## Contribuindo
+
+Contribuições são sempre bem-vindas! Por favor, siga as seguintes diretrizes:
+
+- Faça um fork do repositório.
+- Crie uma branch para sua feature ou correção.
+- Escreva testes unitários para novas funcionalidades ou correções.
+- Certifique-se de que todos os testes estejam passando.
+- Envie um pull request com uma descrição clara das mudanças.
+
+## Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+## Contato
+
+Para dúvidas ou sugestões, entre em contato através de uma [Issue](https://github.com/arbgjr/RULES/issues).
