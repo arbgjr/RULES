@@ -4,7 +4,7 @@ grammar RulesLang;
 ID: [a-zA-Z_][a-zA-Z_0-9]* ;
 INT: [0-9]+ ;
 STRING: '"' ( ~["\\] | '\\' . )* '"' ;
-FUNCTION: 'Upper' | 'Lower' | 'Length' | ... ; // Adicionarei outras funções posteriormente
+FUNCTION: 'Upper' | 'Lower' | 'Length' | ; // Adicionarei outras funções posteriormente
 WS: [ \t\r\n]+ -> skip ; // Ignora espaços em branco
 
 // Gramática (Análise Sintática)
