@@ -1,4 +1,4 @@
-# RULES: Universal Logic Engine Systems Compiler
+# RULES: Rules is a Universal Logic Engine Systems Compiler
 
 Este projeto é dedicado ao desenvolvimento do compilador para o motor de regras "RULES: Universal Logic Engine Systems". O compilador é construído usando ANTLR para análise léxica e sintática, e C# para a implementação do analisador semântico e execução das regras.
 
